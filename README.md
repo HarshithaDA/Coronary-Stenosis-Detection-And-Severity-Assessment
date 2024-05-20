@@ -20,5 +20,5 @@ Danilov, Viacheslav; Klyshnikov, Kirill; Kutikhin, Anton; Gerget, Olga; Frangi, 
 
 
 ### Note
-The neural network models were developed using TensorFlow 2.5 as their fundamental framework platform. CUDA Toolkit 12.0 and NVIDIA CUDA Deep Neural Network library (cuDNN), were used to perform computation on GPUS with development tools and GPU-accelerated libraries. The associated paper describing my project work and findings has been submitted for publication and is currently under review.
+The associated paper describing my project work and findings has been submitted for publication and is currently under review. The neural network models were developed using TensorFlow 2.5 as their fundamental framework platform. CUDA Toolkit 12.0 and NVIDIA CUDA Deep Neural Network library (cuDNN), were used to perform computation on GPUS with development tools and GPU-accelerated libraries. 
 
