@@ -15,10 +15,9 @@
 Danilov, Viacheslav; Klyshnikov, Kirill; Kutikhin, Anton; Gerget, Olga; Frangi, Alejandro; Ovcharenko, Evgeny (2021), “Angiographic dataset for stenosis detection”, Mendeley Data, V1, doi: 10.17632/ydrm75xywg.1
 
 
-## Related links
-• Danilov, V.V., Klyshnikov, K.Y., Gerget, O.M. et al. Real-time coronary artery stenosis detection based on modern neural networks. Sci Rep 11, 7582 (2021). https://doi.org/10.1038/s41598-021-87174-2
-
-
-### Note
+## Note
 The associated paper describing my project work and findings has been submitted for publication and is currently under review. The neural network models were developed using TensorFlow 2.5 as their fundamental framework platform. CUDA Toolkit 12.0 and NVIDIA CUDA Deep Neural Network library (cuDNN), were used to perform computation on GPUS with development tools and GPU-accelerated libraries. 
 
+
+## Related links
+• Danilov, V.V., Klyshnikov, K.Y., Gerget, O.M. et al. Real-time coronary artery stenosis detection based on modern neural networks. Sci Rep 11, 7582 (2021). https://doi.org/10.1038/s41598-021-87174-2
