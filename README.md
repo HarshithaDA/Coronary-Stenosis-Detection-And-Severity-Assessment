@@ -17,3 +17,13 @@ Danilov, Viacheslav; Klyshnikov, Kirill; Kutikhin, Anton; Gerget, Olga; Frangi, 
 
 ## Related links
 • Danilov, V.V., Klyshnikov, K.Y., Gerget, O.M. et al. Real-time coronary artery stenosis detection based on modern neural networks. Sci Rep 11, 7582 (2021). https://doi.org/10.1038/s41598-021-87174-2
+
+
+
+This repository contains the code for my final year capstone project. The network models were developed using TensorFlow 2.5. The associated paper has been submitted for publication and is currently under review.
+
+
+
+
+
+
