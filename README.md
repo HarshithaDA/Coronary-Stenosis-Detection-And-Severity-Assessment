@@ -2,11 +2,11 @@
 
 ## Project Objectives
 
-• To develop an automated system that can detect and locate coronary stenosis and aid in treatment planning by estimating the degree of stenosis severity and finding the optimal stent size to be used for intervention to restore blood flow.
-
-• By harnessing the power of neural networks, an experimental comparative analysis and evaluation is performed to identify the most effective model to achieve optimal performance in detecting and locating coronary artery stenosis.
+• To develop an automated system that can detect and locate coronary stenosis from coronary angiograms and aid in treatment planning by estimating the degree of stenosis severity and finding the optimal stent size to be used for intervention to restore blood flow.
 
 • The solution analyzes the angiograms robustly to cater to the varied anatomy structures of different patients, tailored to the specific characteristics of each stenotic region.
+
+• By harnessing the power of neural networks, an experimental comparative analysis and evaluation is performed to identify the most effective model to achieve optimal performance in detecting and locating coronary artery stenosis.
 
 • Aims to empower healthcare professionals with a sophisticated tool that complements their expertise, leading to more timely interventions, and early treatment decisions ultimately, improving patient outcomes with a streamlined system.
 
