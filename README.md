@@ -9,3 +9,8 @@
 • The solution analyzes the angiograms robustly to cater to the varied anatomy structures of different patients, tailored to the specific characteristics of each stenotic region.
 
 • Aims to empower healthcare professionals with a sophisticated tool that complements their expertise, leading to more timely interventions, early treatment decisions ultimately, improving patient outcomes with a streamlined system.
+
+
+
+### Dataset:
+Danilov, Viacheslav; Klyshnikov, Kirill; Kutikhin, Anton; Gerget, Olga; Frangi, Alejandro; Ovcharenko, Evgeny (2021), “Angiographic dataset for stenosis detection”, Mendeley Data, V1, doi: 10.17632/ydrm75xywg.1
